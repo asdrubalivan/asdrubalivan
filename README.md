@@ -7,3 +7,5 @@
 - 📚 Reader and tango dancer — conversations about books and ideas are half of how I connect with coworkers
 - 🇻🇪 Based in Venezuela, open to senior remote roles
 - 🎯 Values: rigor over speed, genuine curiosity over "what pays more", autonomy
+
+🌐 [asdrubalivan.com](https://asdrubalivan.com) · 💼 [LinkedIn](https://linkedin.com/in/asdrubalivan)
