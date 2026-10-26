@@ -2,6 +2,7 @@
 
 - 🛠️ Senior backend engineer — 14 years, Python/FastAPI/PostgreSQL at the core
 - 🤖 Currently deep in LLM production reliability — multi-provider (Claude API + Google Cloud Vertex AI), took Riley's uptime from 93% → 99.9%
+- 🔎 Building [SupportPilot](https://github.com/asdrubalivan/supportpilot) — a RAG support agent with cited answers, a customer-scoped order tool, and deterministic evals (recall@k, citation precision); FastAPI + LlamaIndex + pgvector + Ollama
 - 🧠 Self-directed learner — built my own teaching system to study AI engineering, algorithms/TypeScript, and even Ukrainian with the same rigor
 - 🗣️ 5 languages with real proficiency: Spanish (native), English (C1), French (B2), Ukrainian (A2, actively climbing), Portuguese (A1)
 - 📚 Reader and tango dancer — conversations about books and ideas are half of how I connect with coworkers
